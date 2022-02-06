@@ -46,3 +46,6 @@ with Git
 repository) with filename “task1.1_GIT.txt”.
 ![task1.1_GIT](https://github.com/AnnaMushchynina/DevOps_online_Kyiv_2022Q1Q2/blob/main/m1/task1.1/images/task1.1_Git.PNG)
 
+## Describe in your own words what DevOps is
+_DevOps is a methodology for continuous delivery of program code to the user_
+
