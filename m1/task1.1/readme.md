@@ -44,5 +44,5 @@ with Git
     ```
 - Execute command “git reflog“ and save it content somewhere (not in 
 repository) with filename “task1.1_GIT.txt”.
-![task1.1_GIT](https://github.com/AnnaMushchynina/DevOps_online_Kyiv_2022Q1Q2/raw/main/m1/task1.1/images/task1.1_GIT.png)
+![task1.1_GIT](https://github.com/AnnaMushchynina/DevOps_online_Kyiv_2022Q1Q2/blob/main/m1/task1.1/images/task1.1_Git.PNG)
 
