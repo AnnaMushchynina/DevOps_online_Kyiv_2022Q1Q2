@@ -58,16 +58,16 @@ showvminfo, createvm, startvm, modifyvm, clonevm, snapshot, controlvm
     ![part3.4.1_GIT](https://github.com/AnnaMushchynina/DevOps_online_Kyiv_2022Q1Q2/blob/main/m2/task2.1/images/part3.4.1.PNG)
     ![part3.4.2_GIT](https://github.com/AnnaMushchynina/DevOps_online_Kyiv_2022Q1Q2/blob/main/m2/task2.1/images/part3.4.2.PNG)
 5. Connect to the VM using the program MobaXterm
-    ![part3.5_GIT](https://github.com/AnnaMushchynina/DevOps_online_Kyiv_2022Q1Q2/blob/main/m2/task2.1/part3.5.PNG)
+    ![part3.5_GIT](https://github.com/AnnaMushchynina/DevOps_online_Kyiv_2022Q1Q2/blob/main/m2/task2.1/images/part3.5.PNG)
 6. Record the date and time
-    ![part3.6_GIT](https://github.com/AnnaMushchynina/DevOps_online_Kyiv_2022Q1Q2/blob/main/m2/task2.1/part3.6.PNG)
+    ![part3.6_GIT](https://github.com/AnnaMushchynina/DevOps_online_Kyiv_2022Q1Q2/blob/main/m2/task2.1/images/part3.6.PNG)
 7. Stop and delete the created VM
-    ![part3.7_GIT](https://github.com/AnnaMushchynina/DevOps_online_Kyiv_2022Q1Q2/blob/main/m2/task2.1/part3.7.PNG)
+    ![part3.7_GIT](https://github.com/AnnaMushchynina/DevOps_online_Kyiv_2022Q1Q2/blob/main/m2/task2.1/images/part3.7.PNG)
 8.  Create your own Vagrant box
-    ![part3.8.1_GIT](https://github.com/AnnaMushchynina/DevOps_online_Kyiv_2022Q1Q2/blob/main/m2/task2.1/part3.8.1.PNG)
-    ![part3.8.2_GIT](https://github.com/AnnaMushchynina/DevOps_online_Kyiv_2022Q1Q2/blob/main/m2/task2.1/part3.8.2.PNG)
-    ![part3.8.3_GIT](https://github.com/AnnaMushchynina/DevOps_online_Kyiv_2022Q1Q2/blob/main/m2/task2.1/part3.8.3.PNG)
-    ![part3.8.4_GIT](https://github.com/AnnaMushchynina/DevOps_online_Kyiv_2022Q1Q2/blob/main/m2/task2.1/part3.8.4.PNG)
+    ![part3.8.1_GIT](https://github.com/AnnaMushchynina/DevOps_online_Kyiv_2022Q1Q2/blob/main/m2/task2.1/images/part3.8.1.PNG)
+    ![part3.8.2_GIT](https://github.com/AnnaMushchynina/DevOps_online_Kyiv_2022Q1Q2/blob/main/m2/task2.1/images/part3.8.2.PNG)
+    ![part3.8.3_GIT](https://github.com/AnnaMushchynina/DevOps_online_Kyiv_2022Q1Q2/blob/main/m2/task2.1/images/part3.8.3.PNG)
+    ![part3.8.4_GIT](https://github.com/AnnaMushchynina/DevOps_online_Kyiv_2022Q1Q2/blob/main/m2/task2.1/images/part3.8.4.PNG)
 
 
 
