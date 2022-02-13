@@ -42,12 +42,32 @@ I am working with VMware, Hyper-V and VirtualBox
 the host
     ![task2.2.3_GIT](https://github.com/AnnaMushchynina/DevOps_online_Kyiv_2022Q1Q2/blob/main/m2/task2.1/images/task2.2.3.PNG)
     - Configure different network modes for VM1, VM2
-    ![network_GIT](https://github.com/AnnaMushchynina/DevOps_online_Kyiv_2022Q1Q2/blob/main/m2/task2.1/images/network.PNG)
-    - 
-    
-
-3. 
-
+    ![network_GIT](https://github.com/AnnaMushchynina/DevOps_online_Kyiv_2022Q1Q2/blob/main/m2/task2.1/images/task2.4.4.PNG)
+3. Work with CLI through VBoxManage
+    - Examine the purpose and execute the basic commands of VBoxManage list, 
+showvminfo, createvm, startvm, modifyvm, clonevm, snapshot, controlvm
+    ![task2.3.1_GIT](https://github.com/AnnaMushchynina/DevOps_online_Kyiv_2022Q1Q2/blob/main/m2/task2.1/images/task2.3.1.PNG)
+    ![task2.3.2_GIT](https://github.com/AnnaMushchynina/DevOps_online_Kyiv_2022Q1Q2/blob/main/m2/task2.1/images/task2.3.2.PNG)
+## WORK WITH VAGRANT
+1. Download and installed the required version of Vagrant
+2. Create a folder "student name" (in English)
+    ![part3.2_GIT](https://github.com/AnnaMushchynina/DevOps_online_Kyiv_2022Q1Q2/blob/main/m2/task2.1/images/part3.2.PNG)
+3. Initialize the environment with the default Vagrant box
+    ![part3.3_GIT](https://github.com/AnnaMushchynina/DevOps_online_Kyiv_2022Q1Q2/blob/main/m2/task2.1/images/part3.3.PNG)
+4. Run vagrant up
+    ![part3.4.1_GIT](https://github.com/AnnaMushchynina/DevOps_online_Kyiv_2022Q1Q2/blob/main/m2/task2.1/images/part3.4.1.PNG)
+    ![part3.4.2_GIT](https://github.com/AnnaMushchynina/DevOps_online_Kyiv_2022Q1Q2/blob/main/m2/task2.1/images/part3.4.2.PNG)
+5. Connect to the VM using the program MobaXterm
+    ![part3.5_GIT](https://github.com/AnnaMushchynina/DevOps_online_Kyiv_2022Q1Q2/blob/main/m2/task2.1/part3.5.PNG)
+6. Record the date and time
+    ![part3.6_GIT](https://github.com/AnnaMushchynina/DevOps_online_Kyiv_2022Q1Q2/blob/main/m2/task2.1/part3.6.PNG)
+7. Stop and delete the created VM
+    ![part3.7_GIT](https://github.com/AnnaMushchynina/DevOps_online_Kyiv_2022Q1Q2/blob/main/m2/task2.1/part3.7.PNG)
+8.  Create your own Vagrant box
+    ![part3.8.1_GIT](https://github.com/AnnaMushchynina/DevOps_online_Kyiv_2022Q1Q2/blob/main/m2/task2.1/part3.8.1.PNG)
+    ![part3.8.2_GIT](https://github.com/AnnaMushchynina/DevOps_online_Kyiv_2022Q1Q2/blob/main/m2/task2.1/part3.8.2.PNG)
+    ![part3.8.3_GIT](https://github.com/AnnaMushchynina/DevOps_online_Kyiv_2022Q1Q2/blob/main/m2/task2.1/part3.8.3.PNG)
+    ![part3.8.4_GIT](https://github.com/AnnaMushchynina/DevOps_online_Kyiv_2022Q1Q2/blob/main/m2/task2.1/part3.8.4.PNG)
 
 
 
