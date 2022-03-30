@@ -4,3 +4,8 @@
 #### _TASK 3.1_
 Було створено проект
  ![1.PNG](https://github.com/AnnaMushchynina/DevOps_online_Kyiv_2022Q1Q2/blob/main/m3/task3.1/images/1.PNG)
+ 
+ В мережі Data Center призначила статичні адреси, перевірила зв'язок за допомогою команди ping
+  ![4.PNG](https://github.com/AnnaMushchynina/DevOps_online_Kyiv_2022Q1Q2/blob/main/m3/task3.1/images/4.PNG)
+ 
+
