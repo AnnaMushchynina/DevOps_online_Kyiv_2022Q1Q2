@@ -1,0 +1,16 @@
+6a8abaf (HEAD -> main, origin/main, origin/develop, origin/HEAD, develop) HEAD@{0}: merge develop: Fast-forward
+372a6c5 HEAD@{1}: checkout: moving from develop to main
+6a8abaf (HEAD -> main, origin/main, origin/develop, origin/HEAD, develop) HEAD@{2}: commit (merge): fix conflict with styles.css
+9515c10 (origin/images, images) HEAD@{3}: merge images: Fast-forward
+8bb2418 HEAD@{4}: checkout: moving from styles to develop
+c1c0ae0 (origin/styles, styles) HEAD@{5}: commit: add in inex file styles
+08069c9 HEAD@{6}: commit: create folder styles with file styles.css
+8bb2418 HEAD@{7}: checkout: moving from develop to styles
+8bb2418 HEAD@{8}: checkout: moving from images to develop
+9515c10 (origin/images, images) HEAD@{9}: commit: add in inex file images
+c4482c9 HEAD@{10}: commit: create folder images with images
+8bb2418 HEAD@{11}: checkout: moving from develop to images
+8bb2418 HEAD@{12}: commit: create inex file
+372a6c5 HEAD@{13}: checkout: moving from main to develop
+372a6c5 HEAD@{14}: commit: Initial commit
+53334d9 HEAD@{15}: clone: from https://github.com/AnnaMushchynina/DevOps_online_Kyiv_2022Q1Q2.git
