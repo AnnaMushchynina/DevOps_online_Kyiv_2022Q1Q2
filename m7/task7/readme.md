@@ -11,11 +11,11 @@
 ```
 3. Select a subject area and describe the database schema, (minimum 3 tables)
 
-   ![3.PNG](https://github.com/AnnaMushchynina/DevOps_online_Kyiv_2022Q1Q2/blob/main/m7/task7/images/3.PNG)
+    ![3.PNG](https://github.com/AnnaMushchynina/DevOps_online_Kyiv_2022Q1Q2/blob/main/m5/task5/images/3.PNG)
 
 4. Create a database on the server through the console.
 
-   ![4.PNG](https://github.com/AnnaMushchynina/DevOps_online_Kyiv_2022Q1Q2/blob/main/m7/task7/images/4.PNG)
+    ![4.PNG](https://github.com/AnnaMushchynina/DevOps_online_Kyiv_2022Q1Q2/blob/main/m7/task7/images/4.PNG)
 
 5. Fill in tables.
 ```
