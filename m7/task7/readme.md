@@ -8,7 +8,7 @@
 2. Install MySQL server on VM.
     ```  
     sudo apt-get install mysql-server
-```
+   ```
 3. Select a subject area and describe the database schema, (minimum 3 tables)
 
     ![3.PNG](https://github.com/AnnaMushchynina/DevOps_online_Kyiv_2022Q1Q2/blob/main/m7/task7/images/3.PNG)
@@ -92,18 +92,18 @@ Create: The user can create entirely new tables and databases
 
 ##### PART 2
 
-10.Make backup of your database.
-11.Delete the table and/or part of the data in the table.
-12.Restore your database.
+10. Make backup of your database.
+11. Delete the table and/or part of the data in the table.
+12. Restore your database.
 
    ![10.PNG](https://github.com/AnnaMushchynina/DevOps_online_Kyiv_2022Q1Q2/blob/main/m7/task7/images/10.PNG)
 
-13.Transfer your local database to RDS AWS.
+13. Transfer your local database to RDS AWS.
 
    ![13.PNG](https://github.com/AnnaMushchynina/DevOps_online_Kyiv_2022Q1Q2/blob/main/m7/task7/images/13.PNG)
 
-14.Connect to your database.
-15.Execute SELECT operator similar step 6.
+14. Connect to your database.
+15. Execute SELECT operator similar step 6.
 
    ![15.1.PNG](https://github.com/AnnaMushchynina/DevOps_online_Kyiv_2022Q1Q2/blob/main/m7/task7/images/15.1.PNG)
 
@@ -111,7 +111,7 @@ Create: The user can create entirely new tables and databases
 
    ![15.3.PNG](https://github.com/AnnaMushchynina/DevOps_online_Kyiv_2022Q1Q2/blob/main/m7/task7/images/15.3.PNG)
 
-16.Create the dump of your database.
+16. Create the dump of your database.
 
    ![16.PNG](https://github.com/AnnaMushchynina/DevOps_online_Kyiv_2022Q1Q2/blob/main/m7/task7/images/16.PNG)
 
