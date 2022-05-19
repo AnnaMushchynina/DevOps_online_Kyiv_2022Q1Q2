@@ -11,11 +11,11 @@
 ```
 3. Select a subject area and describe the database schema, (minimum 3 tables)
 
-![3.PNG](https://github.com/AnnaMushchynina/DevOps_online_Kyiv_2022Q1Q2/blob/main/m7/task7/images/3.PNG)
+   ![3.PNG](https://github.com/AnnaMushchynina/DevOps_online_Kyiv_2022Q1Q2/blob/main/m7/task7/images/3.PNG)
 
 4. Create a database on the server through the console.
 
-![4.PNG](https://github.com/AnnaMushchynina/DevOps_online_Kyiv_2022Q1Q2/blob/main/m7/task7/images/4.PNG)
+   ![4.PNG](https://github.com/AnnaMushchynina/DevOps_online_Kyiv_2022Q1Q2/blob/main/m7/task7/images/4.PNG)
 
 5. Fill in tables.
 ```
@@ -51,41 +51,41 @@ INSERT INTO comment(`post_id`, `content`, `author`, `date_created`) VALUES(
 
 6. Construct and execute SELECT operator with WHERE, GROUP BY and ORDER BY.
 
-![6.1.PNG](https://github.com/AnnaMushchynina/DevOps_online_Kyiv_2022Q1Q2/blob/main/m7/task7/images/6.1.PNG)
+   ![6.1.PNG](https://github.com/AnnaMushchynina/DevOps_online_Kyiv_2022Q1Q2/blob/main/m7/task7/images/6.1.PNG)
 
-![6.2.PNG](https://github.com/AnnaMushchynina/DevOps_online_Kyiv_2022Q1Q2/blob/main/m7/task7/images/6.2.PNG)
+   ![6.2.PNG](https://github.com/AnnaMushchynina/DevOps_online_Kyiv_2022Q1Q2/blob/main/m7/task7/images/6.2.PNG)
 
-![6.3.PNG](https://github.com/AnnaMushchynina/DevOps_online_Kyiv_2022Q1Q2/blob/main/m7/task7/images/6.3.PNG)
+   ![6.3.PNG](https://github.com/AnnaMushchynina/DevOps_online_Kyiv_2022Q1Q2/blob/main/m7/task7/images/6.3.PNG)
 
 7. Execute other different SQL queries DDL, DML, DCL.
 
-![7.1.PNG](https://github.com/AnnaMushchynina/DevOps_online_Kyiv_2022Q1Q2/blob/main/m7/task7/images/7.1.PNG)
+   ![7.1.PNG](https://github.com/AnnaMushchynina/DevOps_online_Kyiv_2022Q1Q2/blob/main/m7/task7/images/7.1.PNG)
 
 SQL queries DDL
 
-![7.2.PNG](https://github.com/AnnaMushchynina/DevOps_online_Kyiv_2022Q1Q2/blob/main/m7/task7/images/7.2.PNG)
+   ![7.2.PNG](https://github.com/AnnaMushchynina/DevOps_online_Kyiv_2022Q1Q2/blob/main/m7/task7/images/7.2.PNG)
 
 SQL queries DML
 
-![7.3.PNG](https://github.com/AnnaMushchynina/DevOps_online_Kyiv_2022Q1Q2/blob/main/m7/task7/images/7.3.PNG)
+   ![7.3.PNG](https://github.com/AnnaMushchynina/DevOps_online_Kyiv_2022Q1Q2/blob/main/m7/task7/images/7.3.PNG)
 
 SQL queries DCL
 
-![7.4.PNG](https://github.com/AnnaMushchynina/DevOps_online_Kyiv_2022Q1Q2/blob/main/m7/task7/images/7.4.PNG)
+   ![7.4.PNG](https://github.com/AnnaMushchynina/DevOps_online_Kyiv_2022Q1Q2/blob/main/m7/task7/images/7.4.PNG)
 
 8. Create a database of new users with different privileges. Connect to the database as a new user and verify that the privileges allow or deny certain actions.
 
 Insert: The user can insert rows into tables
 
-![8.1.PNG](https://github.com/AnnaMushchynina/DevOps_online_Kyiv_2022Q1Q2/blob/main/m7/task7/images/8.1.PNG)
+   ![8.1.PNG](https://github.com/AnnaMushchynina/DevOps_online_Kyiv_2022Q1Q2/blob/main/m7/task7/images/8.1.PNG)
 
 Delete: The user can remove rows from tables
 
-![8.2.PNG](https://github.com/AnnaMushchynina/DevOps_online_Kyiv_2022Q1Q2/blob/main/m7/task7/images/8.2.PNG)
+   ![8.2.PNG](https://github.com/AnnaMushchynina/DevOps_online_Kyiv_2022Q1Q2/blob/main/m7/task7/images/8.2.PNG)
 
 Create: The user can create entirely new tables and databases
 
-![8.3.PNG](https://github.com/AnnaMushchynina/DevOps_online_Kyiv_2022Q1Q2/blob/main/m7/task7/images/8.3.PNG)
+   ![8.3.PNG](https://github.com/AnnaMushchynina/DevOps_online_Kyiv_2022Q1Q2/blob/main/m7/task7/images/8.3.PNG)
 
 9. Make a selection from the main table DB MySQL.
 
@@ -96,24 +96,24 @@ Create: The user can create entirely new tables and databases
 11.Delete the table and/or part of the data in the table.
 12.Restore your database.
 
-![10.PNG](https://github.com/AnnaMushchynina/DevOps_online_Kyiv_2022Q1Q2/blob/main/m7/task7/images/10.PNG)
+   ![10.PNG](https://github.com/AnnaMushchynina/DevOps_online_Kyiv_2022Q1Q2/blob/main/m7/task7/images/10.PNG)
 
 13.Transfer your local database to RDS AWS.
 
-![13.PNG](https://github.com/AnnaMushchynina/DevOps_online_Kyiv_2022Q1Q2/blob/main/m7/task7/images/13.PNG)
+   ![13.PNG](https://github.com/AnnaMushchynina/DevOps_online_Kyiv_2022Q1Q2/blob/main/m7/task7/images/13.PNG)
 
 14.Connect to your database.
 15.Execute SELECT operator similar step 6.
 
-![15.1.PNG](https://github.com/AnnaMushchynina/DevOps_online_Kyiv_2022Q1Q2/blob/main/m7/task7/images/15.1.PNG)
+   ![15.1.PNG](https://github.com/AnnaMushchynina/DevOps_online_Kyiv_2022Q1Q2/blob/main/m7/task7/images/15.1.PNG)
 
-![15.2.PNG](https://github.com/AnnaMushchynina/DevOps_online_Kyiv_2022Q1Q2/blob/main/m7/task7/images/15.2.PNG)
+   ![15.2.PNG](https://github.com/AnnaMushchynina/DevOps_online_Kyiv_2022Q1Q2/blob/main/m7/task7/images/15.2.PNG)
 
-![15.3.PNG](https://github.com/AnnaMushchynina/DevOps_online_Kyiv_2022Q1Q2/blob/main/m7/task7/images/15.3.PNG)
+   ![15.3.PNG](https://github.com/AnnaMushchynina/DevOps_online_Kyiv_2022Q1Q2/blob/main/m7/task7/images/15.3.PNG)
 
 16.Create the dump of your database.
 
-![16.PNG](https://github.com/AnnaMushchynina/DevOps_online_Kyiv_2022Q1Q2/blob/main/m7/task7/images/16.PNG)
+   ![16.PNG](https://github.com/AnnaMushchynina/DevOps_online_Kyiv_2022Q1Q2/blob/main/m7/task7/images/16.PNG)
 
 ##### PART 3 – MongoDB
 
