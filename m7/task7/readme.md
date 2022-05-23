@@ -123,7 +123,6 @@ doesn't exist, Mongo will create it when you write to it).
    ![17.PNG](https://github.com/AnnaMushchynina/DevOps_online_Kyiv_2022Q1Q2/blob/main/m7/task7/images/17.PNG)
 
 18. Create a collection. Use db.createCollection to create a collection. I'll leave the subject up to you. Run show dbs and show collections to view your database and collections.
-Создадим ограниченную коллекцию developers, в которой мы сможем хранить только 10 разработчиков:
 
    ![18.PNG](https://github.com/AnnaMushchynina/DevOps_online_Kyiv_2022Q1Q2/blob/main/m7/task7/images/18.PNG)
 
