@@ -1,0 +1,29 @@
+- hosts: jenkins
+  tasks:
+  - name: Install pip3
+    apt:
+     update_cache: yes
+     name: python3-pip
+    become: yes
+  - name: Install python docker sdk
+    shell: |
+     pip3 install docker
+    become: yes  
+  - name: install docker
+    apt:
+     name: docker.io
+    become: yes
+  - name: add user to docker group
+    become: yes
+    command: usermod -a -G docker ubuntu
+  - name: Enable and Start docker Service
+    service:
+      name: docker
+      enabled: yes
+      state: started
+  - name: pull Jenkins image
+    command: docker pull jenkins/jenkins
+  - name: run Jenkins in docker
+    #command: docker run -i -t -p 8080:8080 -p 8101:8101 -p 9001:9001 --name='jenkins' ubuntu /bin/bash -d jenkins/jenkins
+    command: docker run --name myjenkins -p 8080:8080 -p 50000:50000 -v jenkinsvolume:/var/jenkins_home -d jenkins/jenkins
+            # docker run -i -t -p 8080:8080 -p 8101:8101 -p 9001:9001 --name='jenkins' ubuntu /bin/bash

@@ -1,0 +1,18 @@
+- hosts: jenkins
+  tasks:
+  - name: install latest node source
+    shell: curl --silent --location https://deb.nodesource.com/setup_10.x |sudo bash -
+    #shell: curl -sL https://rpm.nodesource.com/setup_14.x | sudo bash -
+    #shell: sudo apt-get install -y nodejs
+  - name: install java, git, node
+    apt:
+      name: "{{ packages }}"
+      state: latest
+    vars:
+      packages:
+       - openjdk-8-jdk
+       #- java-1.8.0-openjdk-devel
+       - git
+       - nodejs
+      update_cache: yes
+      state: present
